@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_10_dp">10dp</dimen>
+    <dimen name="status_bar_height_health">24dp</dimen>
+    <dimen name="layout_margin_progress">10dp</dimen>
+</resources>
